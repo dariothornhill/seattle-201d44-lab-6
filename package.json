@@ -1,0 +1,23 @@
+{
+  "name": "seattle-201d44-lab-6",
+  "version": "1.0.0",
+  "description": "201 Lab 6",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint js/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dariothornhill/seattle-201d44-lab-6.git"
+  },
+  "author": "dario.thornhill@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dariothornhill/seattle-201d44-lab-6/issues"
+  },
+  "homepage": "https://github.com/dariothornhill/seattle-201d44-lab-6#readme",
+  "devDependencies": {
+    "eslint": "^5.12.0"
+  }
+}
